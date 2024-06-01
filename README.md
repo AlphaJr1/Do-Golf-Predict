@@ -2,6 +2,9 @@
 
 Welcome to my **Golf Project Collection**! 🎉 This repository houses two exciting projects from my Informatics coursework, focusing on data science and machine learning using Python. Below, you'll find a detailed overview of each project, insights into the notebooks, and a link to a presentation that dives deeper into the projects.
 
+Presentation:
+https://www.canva.com/design/DAGG5R_0J8Y/rtvdI8LFHIJlQydwlV53zA/view?utm_content=DAGG5R_0J8Y&utm_campaign=designshare&utm_medium=link&utm_source=editor
+
 ## Projects Overview
 
 ### 1. Playground_PlayGolf.ipynb
